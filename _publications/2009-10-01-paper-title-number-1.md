@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Fingerprints of learned object recognition seen in the fMRI activation patterns of lateral occipital complex"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/roth_zohary_2015_cerCor
+excerpt: 'Abstract: One feature of visual processing in the ventral stream is that cortical responses gradually depart from the physical aspects of the visual stimulus and become correlated with perceptual experience. Thus, unlike early retinotopic areas, the responses in the object-related lateral occipital complex (LOC) are typically immune to parameter changes (e.g., contrast, location, etc.) when these do not affect recognition. Here, we use a complementary approach to highlight changes in brain activity following a shift in the perceptual state (in the absence of any alteration in the physical image). Specifically, we focus on LOC and early visual cortex (EVC) and compare their functional magnetic resonance imaging (fMRI) responses to degraded object images, before and after fast perceptual learning that renders initially unrecognized objects identifiable. Using 3 complementary analyses, we find that, in LOC, unlike EVC, learned recognition is associated with a change in the multivoxel response pattern to degraded object images, such that the response becomes significantly more correlated with that evoked by the intact version of the same image. This provides further evidence that the coding in LOC reflects the recognition of visual objects.'
+date: 2014-03-31
+venue: 'Cerebral Cortex'
+paperurl: 'https://academic.oup.com/cercor/article/25/9/2427/2926053'
+citation: 'Roth, Z.N., & Zohary, E., (2009). &quot;Fingerprints of learned object recognition seen in the fMRI activation patterns of lateral occipital complex.&quot; <i>Cerebral Cortex</i>. 25(9), 2427-2439.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Abstract: One feature of visual processing in the ventral stream is that cortical responses gradually depart from the physical aspects of the visual stimulus and become correlated with perceptual experience. Thus, unlike early retinotopic areas, the responses in the object-related lateral occipital complex (LOC) are typically immune to parameter changes (e.g., contrast, location, etc.) when these do not affect recognition. Here, we use a complementary approach to highlight changes in brain activity following a shift in the perceptual state (in the absence of any alteration in the physical image). Specifically, we focus on LOC and early visual cortex (EVC) and compare their functional magnetic resonance imaging (fMRI) responses to degraded object images, before and after fast perceptual learning that renders initially unrecognized objects identifiable. Using 3 complementary analyses, we find that, in LOC, unlike EVC, learned recognition is associated with a change in the multivoxel response pattern to degraded object images, such that the response becomes significantly more correlated with that evoked by the intact version of the same image. This provides further evidence that the coding in LOC reflects the recognition of visual objects.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://zviroth.github.io/files/roth_zohary_2015_cerCor.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Roth, Z.N., & Zohary, E., (2009). "Fingerprints of learned object recognition seen in the fMRI activation patterns of lateral occipital complex." <i>Cerebral Cortex</i>. 25(9), 2427-2439.
