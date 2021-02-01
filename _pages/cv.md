@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Summer course, Computational Neuroscience: Vision, Cold Spring Harbor Laboratory, NY, 2018
+* Ph.D. in Brain Sciences: Computation and Information Processing, ELSC, Hebrew University of Jerusalem, 2017
+* B.Sc. in Physics & Computer Science, Hebrew University of Jerusalem, 2009
+* Summer School, Ulpanat De Shalit - Physics, Weizmann Institute, Rechovot, 2008
 
 Work experience
 ======
