@@ -2,7 +2,7 @@
 title: "Functional MRI Representational Similarity Analysis Reveals a Dissociation between Discriminative and Relative Location Information in the Human Visual System"
 collection: publications
 permalink: /publication/roth_2016_frontIntegNeuroscience
-excerpt: 'EXCERPT'
+excerpt: 'Analyzing representations of relative location reveals that although early visual cortex represents stimuli in a highly location-dependent manner, the relative spatial representation (of one object with respect to another) there is distorted. On the other hand, representations in higher order regions preserve relative locations to a high degree. Computational modeling suggests that the unique representation in early visual cortex is a result receptive field properties, namely a mexican-hat profile, or negative surround. This demonstrates how the orderly neural organization across the cortex cortex results in a clear relationship between neuronal tuning, and the tuning of population measures such as fMRI voxels.'
 date: 2016-03-30
 venue: 'Frontiers in Integrative Neuroscience'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fnint.2016.00016/full'
