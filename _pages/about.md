@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Zvi. I was born in Australia, and grew up in Israel. I'm currently living in Maryland, with my wife and two kids. 
+Hi there! I'm Zvi. I was born in Australia, and grew up in Israel. I live in Maryland, with my wife and two kids. 
 
-I'm a postdoc at NIMH. I completed a BSc in Physics and Computer Science, and a PhD in Computational Neuroscience, at the Hebrew University.
+I'm currently a postdoc at NIMH. I completed a BSc in Physics and Computer Science, and a PhD in Computational Neuroscience, at the Hebrew University.
 
-Scientific research
+Neuroscience
 ======
 
 I strive to understand how the human brain represents the visual world. My research focuses on how diverse factors, both internal and external, affect neural representations in visual cortex. My goal is to uncover the neural mechanisms that give rise to visual perception and to understand how endogenous brain signals shape these perceptual representations. 
 
-My approach involves linking non-invasive measurements of human brain activity with perception and behavior through computational theory. The models I build are based on canonical mechanisms that are likely to be present in many other neural systems across the brain, and therefore the principles I uncover are applicable way beyond vision.
+My approach involves linking non-invasive measurements of human brain activity with perception and behavior through computational theory. The models I build are based on canonical mechanisms that are likely to be present in many other neural systems, and therefore the principles I uncover may be applicable across the brain.
  
