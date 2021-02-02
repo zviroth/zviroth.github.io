@@ -1,7 +1,7 @@
 ---
-title: "2012-2014: Teacher Assistant"
+title: "Cognitive Processes A, graduate course (2012-2014)"
 collection: teaching
-type: "Graduate course, Cognitive Processes A (course no. 76912)"
+type: "Modified course and delivered lectures"
 permalink: /teaching/2012-cognitive
 venue: "ELSC, Hebrew University of Jerusalem"
 date: 2012-01-01
