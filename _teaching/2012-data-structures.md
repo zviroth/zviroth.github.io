@@ -4,7 +4,7 @@ collection: teaching
 type: "Initiated and built course and delivered lectures"
 permalink: /teaching/2012-data-structures
 venue: "Azrieli College of Engineering"
-<!--date: 2012-->
+date: 2012-01-01
 location: "Jerusalem, Israel"
 ---
 
