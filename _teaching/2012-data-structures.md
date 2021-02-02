@@ -1,5 +1,5 @@
 ---
-title: "Teacher Assistant"
+title: "2012-2013: Teacher Assistant"
 collection: teaching
 type: "Undergraduate course, Data Structures (course no. 10031)"
 permalink: /teaching/2012-data-structures
