@@ -74,6 +74,15 @@ Publications
   {% endfor %}</ul>
   
   
+Awards
+======
+* NIMH Intramural Research Program OFT Trainee Travel Award <span style="float:right;">2019</span>
+* VSS 2019 National Eye Institute Postdoctoral Travel Award <span style="float:right;">2019</span>
+* ELSC Postdoctoral Fellowship Abroad scholarship <span style="float:right;">2016-2017</span>
+* ELSC Prize for the first scientific paper based on data collected from the SKYRA magnet <span style="float:right;">2016</span>
+* ELSC Prize for Outstanding Academic Performance for published paper <span style="float:right;">2014</span>
+* Dean’s list, Faculty of Science, Hebrew University of Jerusalem <span style="float:right;">2007</span>
+
 Talks
 ======
 * Roth, Z.N., Ryoo, M., Merriam, E.P. (2020), Widespread task-related fMRI responses in visual cortex.
