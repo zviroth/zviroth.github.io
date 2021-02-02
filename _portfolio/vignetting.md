@@ -1,6 +1,6 @@
 ---
 title: "Orientation selectivity and vignetting"
-excerpt: "How does human visual cortex process orientation? Can we measure orientation selectivity with fMRI in humans?<br/><img src="/images/brain_and_grating.png"/>"
+excerpt: "How does human visual cortex process orientation? <br/><img src='/images/brain_and_grating.png'>"
 collection: portfolio
 ---
 
