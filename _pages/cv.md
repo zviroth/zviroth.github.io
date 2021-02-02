@@ -26,7 +26,7 @@ Education
   
 Research
 ======
-* 2016-today: Postdoctoral Fellow
+* 2016-present: Postdoctoral Fellow
   * PI: Dr. Elisha Merriam
   * Laboratory of Brain and Cognition, National Institute of Mental Health, NIH
   
