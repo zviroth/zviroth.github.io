@@ -11,10 +11,27 @@ redirect_from:
 
 Education
 ======
+* 2018, Summer course:
+  * Computational Neuroscience: Vision
+  * Cold Spring Harbor Laboratory, NY
+* 2009-2017, Ph.D.:
+  * Brain Sciences: Computation and Information Processing
+  * ELSC, Hebrew University of Jerusalem
+* 2008, Summer school:
+  * Ulpanat De Shalit - Physics
+  * Weizmann Institute, Rechovot
+* 2006-2009, BSc.:
+  * Physics & Computer Science
+  * Hebrew University of Jerusalem
+  
 * Summer course, Computational Neuroscience: Vision, Cold Spring Harbor Laboratory, NY, 2018
 * Ph.D. in Brain Sciences: Computation and Information Processing, ELSC, Hebrew University of Jerusalem, 2017
 * B.Sc. in Physics & Computer Science, Hebrew University of Jerusalem, 2009
 * Summer School, Ulpanat De Shalit - Physics, Weizmann Institute, Rechovot, 2008
+
+Research
+======
+* 
 
 Work experience
 ======
