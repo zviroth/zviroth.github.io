@@ -66,11 +66,6 @@ Skills
 * programming
 * academic teaching
 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -78,11 +73,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
@@ -108,11 +98,5 @@ Posters
 * Roth, Z. N., & Zohary, E. (2014). Position Invariance and Object Affordances in Human Parietal Cortex. ELSC Ein Gedi Retreat.
 * Roth, Z., & Zohary, E. (2013). Learning to recognize degraded objects is associated with a greater match to the objects' template fMRI activation patterns in Lateral Occipital Cortex. Vision Sciences Society 2013 Meeting. Journal of Vision, 13(9), 497-497. [Abstract](https://jov.arvojournals.org/article.aspx?articleid=2142604).
 
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 
