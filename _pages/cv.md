@@ -32,7 +32,7 @@ Research
   
 * 2009-2016: Ph.D. candidate
   * PI: Prof. Ehud Zohary
-  * Neuroboiology Department & ELSC, Hebrew University of Jerusalem
+  * Neurobiology Department & ELSC, Hebrew University of Jerusalem
   * Thesis title: <i>Brain Representations of Visual Percepts</i>
   
 * 2008-2009: Undergraduate intern
@@ -59,13 +59,13 @@ Teaching experience
   * Azrieli College of Engineering, Jerusalem
   
   
-Skills
+<!-- Skills
 ======
 * designing and running fMRI experiments
 * data analysis
 * programming
 * academic teaching
-
+-->
 
 Publications
 ======
