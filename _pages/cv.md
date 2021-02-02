@@ -37,12 +37,12 @@ Research
   * Laboratory of Brain and Cognition, National Institute of Mental Health, NIH
   
 * 2009-2016: Ph.D. candidate
-  * PI: Prof. Ehud Zohary
+  * PI: [Prof. Ehud Zohary](https://elsc.huji.ac.il/faculty-staff/ehud-zohary)
   * Neurobiology Department & ELSC, Hebrew University of Jerusalem
   * Thesis title: <i>Brain Representations of Visual Percepts</i>
   
 * 2008-2009: Undergraduate intern
-  * PI: Prof. Haim Sompolinsky
+  * PI: [Prof. Haim Sompolinsky](https://elsc.huji.ac.il/faculty-staff/haim-sompolinsky)
   * Racah Institute of Physics & ELSC
   * Research topic: <i>Optimal Saccades during Smooth Pursuit</i>
   
