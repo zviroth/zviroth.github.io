@@ -2,7 +2,7 @@
 title: "Task-related activity in human visual cortex"
 collection: publications
 permalink: /publication/roth_ryoo_merriam_2020_plosBiology
-excerpt: 'EXCERPT'
+excerpt: 'In a typical sensory neuroscience experiment, the neural response to an external visual stimulus is quantified, and an inference is made about the brain’s internal representation. Neural activity not related to the stimulus is considered ‘noise.’ However, unexplained variance also reflects a wide range of endogenous neural processes that have cognitive correlates. In a recent study aimed at uncovering cognitive processes underlying endogenous neural signals, I used multi-echo fMRI and ICA-based image denoising, physiological monitoring, pupillometry and eye-tracking, to characterize widespread activity across visual cortex. We uncovered activity that is independent of visual stimuli, yet time-locked to the ongoing task, and which we therefore termed ‘task-related’ activity. Similar global hemodynamic activity has been measured previously in monkeys using optical imaging, but the functional relevance of this signal has been hotly debated for a decade. I demonstrated that this task-related activity tracks arousal level, as indexed by both pupil size and heart rate. Computer simulations showed that arousal most likely decreases the temporal variability of task-related responses, consistent with a role in cognitive operations related to temporal attention.'
 date: 2020-11-06
 venue: 'PLOS Biology'
 paperurl: 'https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000921&rev=2'
