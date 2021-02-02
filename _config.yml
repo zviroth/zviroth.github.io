@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zvi Roth's homepage"
+title                    : "Zvi Roth"
 title_separator          : "-"
 name                     : &name "Zvi N. Roth"
 description              : &description "postdoctoral neuroscientist"
