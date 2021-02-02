@@ -41,7 +41,7 @@ Research
   * Research topic: <i>Optimal Saccades during Smooth Pursuit</i>
   
 
-Work experience
+Teaching experience
 ======
 * 2015-2016: Teacher Assistant
   * <i>Uncovering principles of human vision using fMRI</i> (course no. 76962)
@@ -61,7 +61,11 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* designing and running fMRI experiments
+* data analysis
+* programming
+* academic teaching
+
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
@@ -76,6 +80,31 @@ Publications
   
 Talks
 ======
+* Roth, Z.N., Ryoo, M., Merriam, E.P. (2020), Widespread task-related fMRI responses in visual cortex.
+Israel Society for Neuroscience (ISFN) 28th Meeting.
+* Roth, Z.N., Heeger, D.J., & Merriam, E.P. (2018), Orientation selectivity and stimulus vignetting in human visual cortex. Vision Sciences Society annual meeting. Journal of Vision, 18(10), 1052-1052. [Abstract](https://jov.arvojournals.org/article.aspx?articleid=2700037).
+* Roth, Z.N., & Zohary, E. (2016). Location and Identity Information Carried by fMRI Activation Patterns in Human Visual Cortex. ELSC Ein Gedi Retreat.
+* Roth, Z.N., & Zohary, E. (2015). Location and identity information carried by fMRI activation patterns in human visual cortex. ISFN 24th Meeting. 
+* Roth, Z., & Zohary, E. (2012). Learning to recognize degraded objects is associated with a greater match to the objects' template patterns in lateral occipital cortex. Israel Society for Neuroscience (ISFN) 21st Meeting.
+  
+Posters
+======
+* Roth, Z.N., Heeger, D.J., & Merriam, E.P. (2020), Stimulus vignetting and orientation selectivity in human visual cortex. Israel Society for Neuroscience (ISFN) 28th Meeting.
+* Roth, Z.N., Steinberg, N.J., Merriam, E.P. (2019), Spatiotopic memory is more precise than retinotopic memory in the context of natural images. Vision Sciences Society annual meeting. Journal of Vision, 19(10), 238-238.
+* Steinberg, N.J., Roth, Z.N., Movshon, J.A., Merriam, E.P. (2019), Neural correlates of the double-drift illusion. Vision Sciences Society annual meeting. Journal of Vision, 19(10), 43c-43c.
+* Roth, Z.N., Heeger, D.J., & Merriam, E.P. (2018), Orientation selectivity and stimulus vignetting in human visual cortex. Cognitive Computational Neuroscience annual meeting.
+* Ryoo, M., Burlingham, C., Roth, Z., Mirbagheri, S., Heeger, D.J., & Merriam, E. (2018), A widespread task-related hemodynamic response in human V1 is modulated by task difficulty. Vision Sciences Society annual meeting. Journal of Vision, 18(10), 1261-1261. 
+* Roth, Z.N., & Merriam, E.P. (2017). Stimulus vignetting and coarse-scale biases for orientation in human visual cortex. Society for Neuroscience (SFN) annual meeting. 
+* Roth, Z.N., & Merriam, E.P. (2017). Stimulus vignetting and orientation selectivity in human visual cortex. NIMH Training Day. 
+* Roth, Z.N., & Zohary, E. (2016). Position Information in Human Visual Cortex. OHBM Annual Meeting. 
+* Roth, Z.N., & Zohary, E. (2016). Position Information in Human Visual Cortex. JBC Annual Retreat.
+* Roth, Z. N., & Zohary, E. (2014). Position invariance and object affordance in human parietal cortex. European Conference of Visual Perception (ECVP) 2014 Meeting. 
+* Roth, Z. N., & Zohary, E. (2014). Position Invariance and Object Affordances in Human Parietal Cortex. ELSC Ein Gedi Retreat.
+* Roth, Z., & Zohary, E. (2013). Learning to recognize degraded objects is associated with a greater match to the objects' template fMRI activation patterns in Lateral Occipital Cortex. Vision Sciences Society 2013 Meeting. Journal of Vision, 13(9), 497-497. 
+
+
+Talks
+======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
@@ -85,7 +114,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
