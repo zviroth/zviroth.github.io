@@ -1,7 +1,10 @@
 ---
-title: "2012-2013: Teacher Assistant"
+<!--title: "2012-2013: Teacher Assistant"
 collection: teaching
-type: "Undergraduate course, Data Structures (course no. 10031)"
+type: "Undergraduate course, Data Structures (course no. 10031)" -->
+title: "Data Structures, undergraduate course (2012-2013)"
+collection: teaching
+type: "Initiated and built course, and delivered lectures"
 permalink: /teaching/2012-data-structures
 venue: "Azrieli College of Engineering"
 date: 2012-01-01
