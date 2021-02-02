@@ -1,5 +1,5 @@
 ---
-title: "Teacher Assistant"
+title: "2012-2013: Teacher Assistant"
 collection: teaching
 type: "Graduate course, Cognitive Processes A (course no. 76912)"
 permalink: /teaching/2012-cognitive
