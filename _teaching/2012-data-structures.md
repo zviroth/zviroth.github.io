@@ -1,7 +1,7 @@
 ---
 title: "Data Structures, undergraduate course (2012-2013)"
 collection: teaching
-type: "Initiated and built course and delivered lectures"
+type: "Delivered review lectures"
 permalink: /teaching/2012-data-structures
 venue: "Azrieli College of Engineering"
 date: 2012-01-01
