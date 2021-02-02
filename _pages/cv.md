@@ -7,7 +7,13 @@ redirect_from:
   - /resume
 ---
 
+[pdf](/files/RothCV.pdf)
 {% include base_path %}
+
+Research Interests:
+======
+Systems Neuroscience, Visual Cortex, Visual Perception,
+Functional MRI, Arousal, Orientation Selectivity, Hemodynamic Coupling.
 
 Education
 ======
