@@ -2,7 +2,7 @@
 title: "Position and identity information available in fMRI patterns of activity in human visual cortex"
 collection: publications
 permalink: /publication/roth_zohary_2015_jNeuroscience
-excerpt: 'Using fMRI in human subjects, we find converging evidence for an information gradient within the dorsal stream of visual cortex: along the posterior–anterior axis, position information is gradually lost, whereas hand and action identity information is enhanced, leading to an abstract, position-invariant representation of viewed action in the anterior parietal cortex.'
+excerpt: 'There is general agreement that visual processing is largely divided between a ventral and dorsal stream specializing in object recognition and vision for action, respectively. Here, we address the specific representation of viewed actions. Specifically, we study the degree of position invariance and hand/object manipulation specificity in the human visual pathways, characterizing the information available in patterns of fMRI activation during viewing of object-grasping videos, which appeared in different retinal locations. We found converging evidence for an information gradient within the dorsal stream of visual cortex: along the posterior–anterior axis, position information is gradually lost, whereas hand and action identity information is enhanced, leading to an abstract, position-invariant representation of viewed action in the anterior parietal cortex.'
 date: 2015-08-19
 venue: 'Journal of Neuroscience'
 paperurl: 'https://www.jneurosci.org/content/35/33/11559'
