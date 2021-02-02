@@ -24,14 +24,25 @@ Education
   * Physics & Computer Science
   * Hebrew University of Jerusalem
   
-* Summer course, Computational Neuroscience: Vision, Cold Spring Harbor Laboratory, NY, 2018
-* Ph.D. in Brain Sciences: Computation and Information Processing, ELSC, Hebrew University of Jerusalem, 2017
-* B.Sc. in Physics & Computer Science, Hebrew University of Jerusalem, 2009
-* Summer School, Ulpanat De Shalit - Physics, Weizmann Institute, Rechovot, 2008
-
 Research
 ======
-* 
+* 2016-today:
+  * Postdoctoral Fellow
+  * PI: Dr. Elisha Merriam
+  * Laboratory of Brain and Cognition, National Institute of Mental Health, NIH
+  
+* 2009-2016:
+  * Ph.D. candidate
+  * PI: Prof. Ehud Zohary
+  * Neuroboiology Department & ELSC, Hebrew University of Jerusalem
+  * Thesis title: <i>Brain Representations of Visual Percepts</i>
+  
+* 2008-2009:
+  * Undergraduate intern
+  * PI: Prof. Haim Sompolinsky
+  * Racah Institute of Physics & ELSC
+  * Research topic: <i>Optimal Saccades during Smooth Pursuit</i>
+  
 
 Work experience
 ======
