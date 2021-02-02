@@ -3,7 +3,7 @@ title: "2012-2013: Teacher Assistant"
 collection: teaching
 type: "Undergraduate course, Data Structures (course no. 10031)"
 permalink: /teaching/2012-data-structures
-venue: "Azrieli College of Engineering, Computer Science"
+venue: "Azrieli College of Engineering"
 date: 2012-01-01
 location: "Jerusalem, Israel"
 ---
