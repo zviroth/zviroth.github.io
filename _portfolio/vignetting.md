@@ -7,6 +7,6 @@ collection: portfolio
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
 
-<img style="float:right ;padding: 15px 0px 15px 25px" src="/images/brain_and_grating.png"/ width="204" height="573.5">
+<img style="float:right ;padding: 15px 0px 15px 25px ;max-width:50%; max-height:50%;" src="/images/brain_and_grating.png"/>
 <p style="text-align: justify">
 How does human visual cortex process orientation?.</p>
