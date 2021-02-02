@@ -78,6 +78,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Talks
 ======
 * Roth, Z.N., Ryoo, M., Merriam, E.P. (2020), Widespread task-related fMRI responses in visual cortex.
@@ -109,8 +115,4 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
