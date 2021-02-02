@@ -2,7 +2,8 @@
 title: "Fingerprints of learned object recognition seen in the fMRI activation patterns of lateral occipital complex"
 collection: publications
 permalink: /publication/roth_zohary_2015_cerCor
-excerpt: 'Using multivariate analyses we find that fMRI activity in the lateral occipital complex reflects the perceptual representation of visual objects, which is strongly modulated by recognition.'
+excerpt: 'Using fMRI multivariate pattern analysis, coupled with an image degradation technique, I found that when degraded images became recognizable they
+evoked activation patterns in the lateral occipital complex (LOC), which were more similar to the patterns evoked by the intact (un-degraded) images. The evoked patterns also became less similar to the patterns evoked by pure noise image. These changes in brain activity occurred although the physical stimuli shown were identical before and after learning. These recognition-related effects were not observed in earlier visual areas. The results provide evidence that the coding in LOC reflects a perceptual-level representation of visual objects.'
 date: 2014-03-31
 venue: 'Cerebral Cortex'
 paperurl: 'https://academic.oup.com/cercor/article/25/9/2427/2926053'
