@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Zvi. I was born in Australia, grew up in Israel, and I'm currently living in Maryland. 
+Hi there! I'm Zvi. I was born in Australia, and grew up in Israel. I'm currently living in Maryland, with my wife and two kids. 
 
 I'm a postdoc at NIMH. I completed a BSc in Physics and Computer Science, and a PhD in Computational Neuroscience, at the Hebrew University.
 
