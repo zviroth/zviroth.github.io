@@ -1,7 +1,3 @@
-
-<!--title: "2012-2013: Teacher Assistant"
-collection: teaching
-type: "Undergraduate course, Data Structures (course no. 10031)" -->
 ---
 title: "Data Structures, undergraduate course (2012-2013)"
 collection: teaching
