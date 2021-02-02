@@ -1,6 +1,6 @@
 ---
 title: "Orientation selectivity and vignetting"
-excerpt: "How does human visual cortex process orientation? <br/><img style="max-width:50%; max-height:50%;" src='/images/brain_and_grating.png'>"
+excerpt: "How does human visual cortex process orientation? <br/><img style='max-width:50%; max-height:50%;' src='/images/brain_and_grating.png'>"
 collection: portfolio
 ---
 
