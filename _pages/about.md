@@ -10,7 +10,8 @@ redirect_from:
 
 Hi! I'm Zvi. I was born in Australia, and grew up in Israel. I now live in Maryland, with my wife and two kids. 
 
-I completed a BSc in Physics and Computer Science, and a PhD in Computational Neuroscience, at the Hebrew University. I'm currently a postdoc at the Lab of Brain and Cognition at the National Intitute of Mental Health. 
+I'm a Research Fellow at the Lab of Brain and Cognition at the National Intitute of Mental Health. 
+I completed a BSc in Physics and Computer Science, and then a PhD in Computational Neuroscience, at the Hebrew University. 
 
 I strive to understand how the human brain represents the visual world. My research focuses on how many different factors, both internal to the brain and external, affect neural representations in visual cortex. My goal is to uncover the neural mechanisms that give rise to visual perception and to understand how endogenous brain signals shape these perceptual representations. 
 
