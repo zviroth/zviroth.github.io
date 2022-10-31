@@ -1,0 +1,15 @@
+---
+title: "Natural scene sampling reveals reliable coarse-scale orientation tuning in human V1"
+collection: publications
+permalink: /publication/roth_kay_merriam_2022_natComms
+excerpt: 'The first research goal that I pursued during my postdoc was to develop and test a computational model that links measurements of neural activity in human visual cortex with perception. But unlike previous work, we included in the simulation the surrounding grey background, which provided a visual ‘context’ to the stimuli. Our model was not expected to have any orientation selectivity since the orientation channels from individual model neurons cancel out as a result of pooling. But when we included the visual context in the simulation, we found robust, large-scale orientation information in the model’s output. We argue that this orientation selectivity was entirely due to visual context, and we provide a mechanistic explanation for how it might manifest in the brain. This phenomenon, which we term ‘stimulus vignetting,’ is counter-intuitive because it implies that orientation selectivity reflects not only stimulus orientation, but stimulus contrast and shape as well. We used the model to predict neural responses to novel stimuli, and we confirmed these predictions with high-resolution, high-field strength fMRI.'
+date: 2018-08-14
+venue: 'Nature Communications'
+paperurl: 'https://www.nature.com/articles/s41467-022-34134-7'
+citation: 'Roth, Z.N., Kay, K., & Merriam, E.P. (2022). &quot;Natural scene sampling reveals reliable coarse-scale orientation tuning in human V1.&quot; <i>Nature Communications</i>. 13, 6469.'
+---
+Abstract: Orientation selectivity in primate visual cortex is organized into cortical columns. Since cortical columns are at a finer spatial scale than the sampling resolution of standard BOLD fMRI measurements, analysis approaches have been proposed to peer past these spatial resolution limitations. It was recently found that these methods are predominantly sensitive to stimulus vignetting - a form of selectivity arising from an interaction of the oriented stimulus with the aperture edge. Beyond vignetting, it is not clear whether orientation-selective neural responses are detectable in BOLD measurements. Here, we leverage a dataset of visual cortical responses measured using high-field 7T fMRI. Fitting these responses using image-computable models, we compensate for vignetting and nonetheless find reliable tuning for orientation. Results further reveal a coarse-scale map of orientation preference that may constitute the neural basis for known perceptual anisotropies. These findings settle a long-standing debate in human neuroscience, and provide insights into functional organization principles of visual cortex.
+
+[Download paper here](http://zviroth.github.io/files/roth_kay_merriam_2022_natComms.pdf)
+
+Recommended citation: Roth, Z.N., Kay, K., & Merriam, E.P. (2022). "Natural scene sampling reveals reliable coarse-scale orientation tuning in human V1" <i>Nature Communications</i>. 13, 6469.'
