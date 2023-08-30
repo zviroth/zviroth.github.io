@@ -1,4 +1,3 @@
-
 ---
 title: "Representations in human primary visual cortex drift over time"
 collection: publications
