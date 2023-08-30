@@ -2,7 +2,7 @@
 title: "Representations in human primary visual cortex drift over time"
 collection: publications
 permalink: /publication/roth_merriam_2023_natComms
-excerpt: 
+excerpt: The primary visual cortex is commonly believed to provide the rest of the brain with a stable representation of the external world. Here, we tested this assumption by analyzing a massive, longitudinal dataset of fMRI responses to naturalistic visual stimuli. In this dataset, subjects were scanned intensively over the course of an entire year, enabling a novel data analysis method inspired by computer vision and machine learning. This approach produced a comprehensive characterization of brain responses over the course of the year-long experiment. We found that visual representations exhibited continuous and cumulative change over many months. Our results challenge the classic view that the visual cortex is a static image-processing module, instead suggesting that even the earliest sensory areas of the brain are constantly changing and adapting over time.
 date: 2023-07-21
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-022-34134-7'
