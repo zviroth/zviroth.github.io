@@ -12,7 +12,7 @@ redirect_from:
 
 Research Interests:
 ======
-Systems Neuroscience, Visual Cortex, Visual Perception,
+Systems Neuroscience, Visual Cortex, Visual Perception, Consciousness, 
 Functional MRI, Arousal, Orientation Selectivity, Representational Drift, Hemodynamic Coupling.
 
 Education
@@ -32,7 +32,11 @@ Education
   
 Research
 ======
-* 2021-present: Research Fellow
+* 2021-2023: Research Fellow
+  * PI: [Prof. Liad Mudrik](https://people.socsci.tau.ac.il/mu/mudriklab/)
+  * School of Psychological Sciences, Tel Aviv University
+    
+* 2021-2023: Research Fellow
   * PI: Dr. Elisha Merriam
   * Laboratory of Brain and Cognition, National Institute of Mental Health, NIH
 
