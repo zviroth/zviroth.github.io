@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zvi Roth"
 title_separator          : "-"
 name                     : &name "Zvi N. Roth"
-description              : &description "neuroscientist, research fellow"
+description              : &description "neuroscientist"
 url                      : https://zviroth.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zviroth/zviroth.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zvi N. Roth"
   avatar           : "profile1.jpg"
-  bio              : "using fMRI, eye-tracking, and modeling to uncover computational principles of vision"
+  bio              : "using fMRI, eye-tracking, and modeling to study brain representations"
   location         : "Jerusalem, Israel"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=zvi+n+roth"
