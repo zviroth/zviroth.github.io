@@ -14,25 +14,13 @@ Research Interests:
 ======
 Systems Neuroscience, Visual Cortex, Visual Perception, Consciousness, 
 Functional MRI, Arousal, Orientation Selectivity, Representational Drift, Hemodynamic Coupling.
-
-Education
-======
-* 2018, Summer course:
-  * Computational Neuroscience: Vision
-  * Cold Spring Harbor Laboratory, NY
-* 2009-2017, Ph.D.:
-  * Brain Sciences: Computation and Information Processing
-  * ELSC, Hebrew University of Jerusalem
-* 2008, Summer school:
-  * Ulpanat De Shalit - Physics
-  * Weizmann Institute, Rechovot
-* 2006-2009, BSc.:
-  * Physics & Computer Science
-  * Hebrew University of Jerusalem
   
 Research
 ======
-* 2021-2023: Research Fellow
+* 2024 - present: Senior Lecturer
+  * Brain Representations Lab, Gonda Brain Research Center, Bar Ilan University
+
+* 2023-2024: Research Fellow
   * PI: [Prof. Liad Mudrik](https://people.socsci.tau.ac.il/mu/mudriklab/)
   * School of Psychological Sciences, Tel Aviv University
     
@@ -72,7 +60,21 @@ Teaching experience
   * Delivered review lectures
   * Azrieli College of Engineering, Jerusalem
   
-  
+Education
+======
+* 2018, Summer course:
+  * Computational Neuroscience: Vision
+  * Cold Spring Harbor Laboratory, NY
+* 2009-2017, Ph.D.:
+  * Brain Sciences: Computation and Information Processing
+  * ELSC, Hebrew University of Jerusalem
+* 2008, Summer school:
+  * Ulpanat De Shalit - Physics
+  * Weizmann Institute, Rechovot
+* 2006-2009, BSc.:
+  * Physics & Computer Science
+  * Hebrew University of Jerusalem
+    
 <!-- Skills
 ======
 * experiment design
