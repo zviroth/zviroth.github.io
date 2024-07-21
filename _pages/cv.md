@@ -17,10 +17,7 @@ Functional MRI, Arousal, Orientation Selectivity, Representational Drift, Hemody
   
 Research
 ======
-* 2024 - present: Senior Lecturer
-  * Brain Representations Lab, Gonda Brain Research Center, Bar Ilan University
-
-* 2023-2024: Research Fellow
+* 2023-present: Research Fellow
   * PI: [Prof. Liad Mudrik](https://people.socsci.tau.ac.il/mu/mudriklab/)
   * School of Psychological Sciences, Tel Aviv University
     
